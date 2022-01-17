@@ -1,0 +1,2 @@
+# Stock-Picker
+ruby excercise
